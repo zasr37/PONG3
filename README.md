@@ -1,5 +1,4 @@
 # PONG3
-readme que contiene la explicación de las principales funcionalidades del código datos del grupo, objetivo del programa, fecha.
 12/19/2023
 
 Este es un juego basasado en Atari Pong 
