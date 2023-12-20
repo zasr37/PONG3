@@ -30,4 +30,13 @@ La pantalla tiene 4 elementos
   
 El marcador se actualiza automaticamnete
 
+Finalmente la progracion consta de 4 partes 
+
+1 el menu de seleccion el cual llama segun lo requerido a:
+
+pongturtle.py nivel 1 y de inicio 
+
+pongturtle2.py nivel 2 la velocidad del balon para el inicio de juego es aumentada
+
+pongturtle2.py nivel 3 la velocidad del balon para el inicio de juego es aumentada aun mas 
 
