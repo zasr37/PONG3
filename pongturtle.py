@@ -156,7 +156,7 @@ while True:
         marcadorfinalB.penup()
         marcadorfinalB.hideturtle()
         marcadorfinalB.goto(0,0)
-        marcadorfinalB.write("Jugador A GANA FELIDADES",align= "center", font=("Courier", 35, "normal"))
+        marcadorfinalB.write("Jugador B GANA FELIDADES",align= "center", font=("Courier", 35, "normal"))
         turtle.done()
 
     
