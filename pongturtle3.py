@@ -52,14 +52,14 @@ PuntajeB=0
 #Movimiento Arriba jugador A y limites
 def JugadorA_up():
     y = JugadorA.ycor()
-    y += 40
+    y += 50
     if y > 290:
         y= 240
     JugadorA.sety(y)
 #Movimiento Abajo jugador A y limites 
 def JugadorA_down():
     y = JugadorA.ycor()
-    y -= 40
+    y -= 50
     if y < -290:
         y=-240
     JugadorA.sety(y)
@@ -69,14 +69,14 @@ ventana.onkeypress(JugadorA_down,"s")
 #Movimiento Arriba jugador B y limites
 def JugadorB_up():
     y = JugadorB.ycor()
-    y += 40
+    y += 50
     if y >290:
         y = 240
     JugadorB.sety(y)
 #Movimiento Abajo jugador B y limites 
 def JugadorB_down():
     y = JugadorB.ycor()
-    y -= 40
+    y -= 50
     if y < -290:
         y=-240
     JugadorB.sety(y)
