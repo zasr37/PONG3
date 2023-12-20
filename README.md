@@ -34,9 +34,9 @@ Finalmente la progracion consta de 4 partes
 
 1 el menu de seleccion el cual llama segun lo requerido a:
 
-pongturtle.py nivel 1 y de inicio 
+pongturtle.py nivel 1 (FACIL) y de inicio 
 
-pongturtle2.py nivel 2 la velocidad del balon para el inicio de juego es aumentada
+pongturtle2.py nivel 2 (MEDIO) la velocidad del balon y jugadores para el inicio de juego es aumentada
 
-pongturtle2.py nivel 3 la velocidad del balon y jugadores para el inicio de juego es aumentada aun mas 
+pongturtle2.py nivel 3 (DIFICIL) la velocidad del balon y jugadores para el inicio de juego es aumentada aun mas 
 
